@@ -1,0 +1,2 @@
+# COMMANDES
+- ping
